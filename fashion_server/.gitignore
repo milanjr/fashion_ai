@@ -1,4 +1,7 @@
 # PYTHON
+# Python virtual environment
+fashion_ai_env/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
