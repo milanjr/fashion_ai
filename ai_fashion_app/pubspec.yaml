@@ -35,6 +35,10 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  # Open-API
+  fashion_ai_api:
+    path: ../fashion_flutter_api
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
