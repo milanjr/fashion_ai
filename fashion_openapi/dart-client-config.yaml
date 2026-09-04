@@ -1,0 +1,7 @@
+generatorName: dart-dio
+
+additionalProperties:
+  pubName: fashion_ai_api
+  pubVersion: 1.0.0
+  pubDescription: Fashion AI API client
+  serializationLibrary: built_value
