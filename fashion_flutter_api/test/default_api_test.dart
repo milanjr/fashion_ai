@@ -1,10 +1,10 @@
 import 'package:test/test.dart';
-import 'package:openapi/openapi.dart';
+import 'package:fashion_ai_api/fashion_ai_api.dart';
 
 
 /// tests for DefaultApi
 void main() {
-  final instance = Openapi().getDefaultApi();
+  final instance = FashionAiApi().getDefaultApi();
 
   group(DefaultApi, () {
     // Test POST endpoint
